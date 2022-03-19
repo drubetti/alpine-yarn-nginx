@@ -1,7 +1,10 @@
 FROM nginx:1.21-alpine
-LABEL maintainer="Palmabit S.r.l. <hello@palmabit.com>"
+LABEL maintainer="Daniele Rubetti <daniele@rubetti.it>"
 
 # Install node with npm and yarn
-RUN apk add --no-cache --repository http://nl.alpinelinux.org/alpine/edge/main libuv \
-    && apk add --no-cache --repository http://dl-cdn.alpinelinux.org/alpine/v3.12/main nodejs=12.22.6-r0 npm=12.22.6-r0 \
-    && apk add --no-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/community yarn=1.22.17-r0
+RUN apk add --no-cache --repository https://dl-cdn.alpinelinux.org/alpine/v3.15/main \
+    libuv \
+    nodejs=16.14.0-r0 \
+    npm=8.1.3-r0
+RUN apk add --no-cache --repository https://dl-cdn.alpinelinux.org/alpine/v3.15/community \
+    yarn=1.22.17-r0

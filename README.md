@@ -1,18 +1,19 @@
 # alpine-yarn-nginx
 
-A Docker image that ships Node, Npm, and Nginx together.
+A Docker image that ships Node, Npm, Yarn and Nginx together.
 
 Latest version:
 
 | Item  | Version  |
 |-------|----------|
-| Node  | v12.22.6 |
-| Npm   | v6.14.15 |
+| Node  | v16.14.0 |
+| Npm   | v8.1.3   |
 | Yarn  | v1.22.17 |
 | Nginx | v1.21    | 
 
 ## Supported tags
-* `12.22.6`, `latest` [(Dockerfile)](./Dockerfile)
+* `16.14.0`, `latest` [(Dockerfile)](./Dockerfile)
+* `12.22.6` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/12.22.6/Dockerfile)
 * `10.16.3` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/10.16.3/Dockerfile)
 * `10.16.0` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/10.16.0/Dockerfile)
 * `8.11.4` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/8.11.4/Dockerfile)
