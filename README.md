@@ -12,9 +12,9 @@ Latest version:
 | Nginx | 1.21    | 
 
 ## Supported tags
-* `16.14.2`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/16.14.2/Dockerfile)
+* `16.14.2`, `gallium`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/16.14.2/Dockerfile)
 * `16.14.0` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/16.14.0/Dockerfile)
-* `12.22.10` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/12.22.10/Dockerfile)
+* `12.22.10`, `erbium`, [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/12.22.10/Dockerfile)
 * `12.22.6` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/12.22.6/Dockerfile)
 
 ## Usage
