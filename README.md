@@ -6,10 +6,10 @@ Latest version:
 
 | Item  | Version  |
 |-------|----------|
-| Node  | 12.22.10 |
+| Node  | 12.22.12 |
 | Npm   | 6.14.16  |
 | Yarn  | 1.22.4   |
-| Nginx | 1.21     | 
+| Nginx | 1.23     | 
 
 ## Supported tags
 * `erbium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/erbium/Dockerfile)
