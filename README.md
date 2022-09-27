@@ -14,6 +14,7 @@ Latest version:
 ## Supported tags
 * `gallium`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/gallium/Dockerfile)
 * `erbium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/erbium/Dockerfile)
+* `dubnium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/dubnium/Dockerfile)
 
 ## Usage
 
