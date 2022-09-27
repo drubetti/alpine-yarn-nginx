@@ -16,6 +16,6 @@ Latest version:
 
 ## Usage
 
-`$ docker pull drubetti/alpine-yarn-nginx`
+`$ docker pull drubetti/alpine-yarn-nginx:erbium`
 
 Static files are served under `/usr/share/nginx/html` by default, or you may modify the config file for reverse proxying.
