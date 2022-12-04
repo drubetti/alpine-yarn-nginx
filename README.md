@@ -6,10 +6,10 @@ Latest version:
 
 | Item  | Version |
 |-------|---------|
-| Node  | 16.16.0 |
+| Node  | 16.17.1 |
 | Npm   | 8.10.0  |
 | Yarn  | 1.22.19 |
-| Nginx | 1.23.1  | 
+| Nginx | 1.23.2  | 
 
 ## Supported tags
 * `gallium`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/gallium/Dockerfile)
