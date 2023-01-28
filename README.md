@@ -6,13 +6,14 @@ Latest version:
 
 | Item  | Version |
 |-------|---------|
-| Node  | 16.17.1 |
-| Npm   | 8.10.0  |
+| Node  | 18.12.1 |
+| Npm   | 9.1.2   |
 | Yarn  | 1.22.19 |
-| Nginx | 1.23.2  | 
+| Nginx | 1.23.3  | 
 
 ## Supported tags
-* `gallium`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/gallium/Dockerfile)
+* `hydrogen`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/hydrogen/Dockerfile)
+* `gallium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/gallium/Dockerfile)
 * `erbium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/erbium/Dockerfile)
 * `dubnium` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/dubnium/Dockerfile)
 
