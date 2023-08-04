@@ -6,10 +6,10 @@ Latest version:
 
 | Item  | Version |
 |-------|---------|
-| Node  | 18.12.1 |
+| Node  | 18.17.0 |
 | Npm   | 9.1.2   |
 | Yarn  | 1.22.19 |
-| Nginx | 1.23.3  | 
+| Nginx | 1.25.1  | 
 
 ## Supported tags
 * `hydrogen`, `latest` [(Dockerfile)](https://github.com/drubetti/alpine-yarn-nginx/blob/hydrogen/Dockerfile)
